@@ -36,7 +36,7 @@ Tip: GitHub renders HTML + Markdown. Some widgets are external images; if any go
 
 ## 👨‍💻 About me
 
-I’m **Ankit Pramanik** — a **DevOps / SRE / Platform Engineer** with **4.5+ years** building reliable, secure, and scalable infrastructure across **AWS & GCP**.
+I’m **Ankit Pramanik** — a **DevOps / SRE / Platform Engineer** with **5+ years** building reliable, secure, and scalable infrastructure across **AWS & GCP**.
 
 - 🔧 I enjoy **platform engineering**, **automation**, and **operational excellence**
 - 🛡️ Strong focus on **DevSecOps** (security baked into delivery)
@@ -79,7 +79,14 @@ I’m **Ankit Pramanik** — a **DevOps / SRE / Platform Engineer** with **4.5+ 
 ## 🧑‍💼 Experience
 
 <details>
-  <summary><b>Razor Group — Developer Platform Engineer</b> (Oct 2025 – Present) · Hyderabad</summary>
+  <summary><b>CES IT Pvt Ltd — Senior DevOps Engineer</b> (Jan 2026 – Present) · Remote</summary>
+
+  - Building a new stage environment from scratch doing capacity planning
+  - Building an end to end CI CD pipeline from scratch using Github Actions
+</details>
+
+<details>
+  <summary><b>Razor Group — Developer Platform Engineer</b> (Oct 2025 – Jan 2026) · Hyderabad</summary>
 
   - Multi-cloud platform engineering across **AWS & GCP**
   - IaC standardization with **Terraform + CloudFormation** (repeatable, secure, auditable)
